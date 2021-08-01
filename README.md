@@ -3,6 +3,9 @@ One of the most interesting project we can build while learning to work with a W
 
 ![Screenshot 2021-08-01 044614](https://user-images.githubusercontent.com/56201060/127756553-cc2bc5c1-26cf-4482-a11d-4efe926df609.jpg)
 
+![Screenshot 2021-08-01 051302](https://user-images.githubusercontent.com/56201060/127756915-52f3a0c2-5282-4f2e-8e0d-13803dbaea2a.jpg)
+
+
  Web server is essentially a device which stores, processes and delivers web pages to web clients, which can range from browsers on our laptops to Mobile apps on our smartphones. The communication between client and server takes place using a special protocol called Hypertext Transfer Protocol (HTTP). The client uses an URL to make a request for a particular page and the server responds with the content of that web page or an error message if the page is not available.In our case, rather than responding with a specific webpage, the URL will be used to control the state of LEDs connected to the ESP and the changes made will be updated on the webpage. For instance, if a URL like “http://192.168.1.9”  is entered in the browser, the web server will understand its time to turn the LED “ON” and then update the status of the LED to “ON” on the webpage. Same thing will happen when it’s required to go “OFF”.
 
 # REQUIRED COMPONENTS:
