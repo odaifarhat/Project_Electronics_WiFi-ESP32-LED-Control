@@ -191,8 +191,11 @@ The void loop() function is where the majority of the work is done. We start by 
   
   The complete code for the project is available below and under the download section of this tutorial.
   
-
-            /* To enter the control panel 192.168.1.9 */
+                
+            /* WiFi-ESP32-LED-Control.
+              By Dejan Eng.Odai Farhat.
+              Time:1-Aug-2021 
+              Note:To enter the control panel 192.168.1.9 */
 
               // Load Wi-Fi library
   
